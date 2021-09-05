@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 -👋 Hi There, I’m Ananth
 - 🔭 I’m currently working on Machine Learning and practicing coding on some Online Judge Platforms...
 - 🌱 I’m currently learning Machine Learning...
