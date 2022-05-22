@@ -2,9 +2,11 @@
 - 👨‍💻 I’m currently working on Machine Learning and practicing coding on some Online Judge Platforms...
 - 👬 I’m looking to collaborate on Machine Learning...
 - 📫 How to reach me mvananthkumar@gmail.com
-- [![Ananth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbeknownstguy)](https://github.com/Unbeknownstguy/github-readme-stats)
 
 <div align="center">
+[![Ananth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unbeknownstguy&theme=onedark&show_icons=true)](https://github.com/Unbeknownstguy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unbeknownstguy)](https://github.com/Unbeknownstguy/github-readme-stats)
+
 	<br>
 	<br>
 	<br>
