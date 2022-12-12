@@ -6,7 +6,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ananthkumarmv&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ananthkumarmv&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ananthkumarmv&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
